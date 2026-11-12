@@ -1,0 +1,33 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 30px;
+    background-color: rgb(183, 126, 86);
+}
+input,button{
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px;
+}
+
+button{
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    background-color: chocolate;
+}
+
+button:hover{
+background-color: rgb(216, 163, 124);
+}
+
+.form{
+    background-color: white;
+    place-items: center;
+    display: grid;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+.result{
+    font-size: 30px;
+}
