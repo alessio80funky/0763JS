@@ -29,7 +29,7 @@ Hello -> 関数名
 
 const Hello2 = () => {
     console.log("Hello, World!");
-}
+};
 
 //=======================================================================//
 
@@ -79,5 +79,5 @@ let number = 1234; //シングルクォーテーションとダブルクォー�
 
 //Boolean　(真偽値型) -> true/false  条件を判断するプログラムによく使います
 
-let bool = true
-let bool2 = false
+let bool = true;
+let bool2 = false;

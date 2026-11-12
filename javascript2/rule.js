@@ -52,7 +52,7 @@ let name345 = "alessio;";
  
 function name678(){
  console.log("name") 
-}
+};
 
 
 //=======================================================================//
@@ -70,8 +70,8 @@ let userName = "ゲスト";
 
 function UserName(){
     let userName = "ゲスト";
-    console.log(userName)
-}
+    console.log(userName);
+};
 
 // スネークケース  ー＞　定数　例：user_name
 

@@ -2,7 +2,7 @@ const nameInput = document.getElementById("input");
 const btn = document.getElementById("button");
 const res = document.getElementById("result");
 
-const greeting = "こんにちは！"
+const greeting = "こんにちは！";
 let userName = "ゲスト";
 
 res.textContent = greeting + userName + "さん";
