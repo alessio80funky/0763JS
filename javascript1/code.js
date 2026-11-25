@@ -2,7 +2,7 @@
 console.log("\"Hello,\n World!\"");//"Hello, World!"
 
 //オブジェクト.メソッド
- // window.alert("Hello, World!");
+ //window.alert("Hello, World!");
 
 /*
 

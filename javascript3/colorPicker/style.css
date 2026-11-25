@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+  font-family: sans-serif;
+  display: grid;
+  place-items: center;
+  height: 100vh; /*100vh = 1080px */
+  background-color: #000;
+}
+
+div{
+ background-color: #fff;
+ padding: 2rem;
+ border-radius: 1rem; /* 1rem = 16px*/
+ width: 12.5rem;
+            /* 左上 | 右上と左下 | 右下 */
+ box-shadow:   0         0         1rem     rgba(0, 0, 0, 0.5);
+}
